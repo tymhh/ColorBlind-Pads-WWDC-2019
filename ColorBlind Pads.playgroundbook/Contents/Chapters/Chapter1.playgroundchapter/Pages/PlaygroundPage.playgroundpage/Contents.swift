@@ -14,10 +14,8 @@
 //#-hidden-code
 import Foundation
 //#-code-completion(everything, hide)
-//#-code-completion(identifier, show, kick1, chant1, hihat1, perc1, kick2, chant2, hihat2, perc2)
-//#-code-completion(identifier, show, green, red, orange, lightPurple)
+//#-code-completion(bookauxiliarymodule, show)
 //#-code-completion(literal, show, boolean)
-
 //#-end-hidden-code
 let pads = [
         Pad(sound: /*#-editable-code*/.kick1/*#-end-editable-code*/, color: /*#-editable-code*/.green/*#-end-editable-code*/),

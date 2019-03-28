@@ -9,7 +9,7 @@
  Change `colorBlindType` variable and **Run My Code** to apply a filter that simulates some type of colorblindness. Is it still easy to recognize color without literal explanation?
  */
 //#-code-completion(everything, hide)
-//#-code-completion(identifier, show, none, deuteranomaly, deuteranopia, protanomaly, protanopia, tritanomaly, tritanopia, achromatomaly, achromatopsia)
+//#-code-completion(bookauxiliarymodule, show)
 let colorBlindType: ColorBlindType = /*#-editable-code*/.none/*#-end-editable-code*/
 
 //#-hidden-code
