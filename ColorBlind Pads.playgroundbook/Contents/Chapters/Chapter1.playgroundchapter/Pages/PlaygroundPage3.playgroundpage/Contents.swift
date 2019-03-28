@@ -14,7 +14,9 @@
  Just play around with it and get a feeling of how it is to have a color vision handicap.
  */
 //#-code-completion(everything, hide)
-//#-code-completion(chapterauxiliarymodule, show)
+//#-code-completion(identifier, show, none, deuteranomaly, deuteranopia, protanomaly, protanopia, tritanomaly, tritanopia, achromatomaly, achromatopsia)
+//#-code-completion(identifier, show, kick1, chant1, hihat1, perc1, kick2, chant2, hihat2, perc2)
+//#-code-completion(identifier, show, green, red, orange, lightPurple)
 
 //#-hidden-code
 import Foundation
