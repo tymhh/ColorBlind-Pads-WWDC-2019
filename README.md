@@ -1,5 +1,5 @@
 # ColorBlind-Pads-WWDC-2019
-# Accepted
+### Accepted
 Software sampler that accessible to people with color blindness
 
 ![screenshot of sample](https://i.ibb.co/s6knV2h/IMG-42-E355784-F04-1.jpg)
